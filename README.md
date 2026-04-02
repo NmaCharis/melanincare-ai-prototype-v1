@@ -1,4 +1,5 @@
 # MelaninCare AI Prototype v1
+Developed by Chidinma Charity Igwe
 
 AI skin-image classification prototype exploring fairness and representation challenges in dermatology datasets.
 
