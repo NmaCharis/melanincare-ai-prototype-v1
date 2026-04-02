@@ -26,3 +26,14 @@ The dataset lacks sufficient diversity, which affects performance and highlights
 
 ## Important Note
 This is an educational prototype and not a medical diagnostic tool.
+
+## Visual Results
+
+### Training Performance
+![Training Accuracy](training_accuracy.png)
+
+### Validation Result
+![Validation Result](validation_result.png)
+
+### Model Architecture
+![Model Architecture](model_architecture.png)
