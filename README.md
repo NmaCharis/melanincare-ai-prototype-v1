@@ -34,4 +34,4 @@ This is an educational prototype and not a medical diagnostic tool.
 ![Training vs Validation](training_validation_accuracy.png)
 
 ### Model Results and Summary
-![Model Results](model_results_summary.png)
+![Model Results](model_results_summary.png.doc)
