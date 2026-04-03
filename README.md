@@ -30,11 +30,8 @@ This is an educational prototype and not a medical diagnostic tool.
 
 ## Visual Results
 
-### Training Performance
-![Training Accuracy](training_accuracy.png)
+### Training vs Validation Accuracy
+![Training vs Validation](training_validation_accuracy.png)
 
-### Validation Result
-![Validation Result](validation_result.png)
-
-### Model Architecture
-![Model Architecture](model_architecture.png)
+### Model Results and Summary
+![Model Results](model_results_summary.png)
